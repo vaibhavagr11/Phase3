@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/vaibhavagrawal/eclipse-work/UsingJUnit/src/main/java/com/ecommerce/tests/StandardTestClass.java"/>
+			<item value="/Users/vaibhavagrawal/eclipse-work"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="UsingJUnit6"/>
+			<item value="UsingJunit5"/>
+			<item value="UsingJUnit4"/>
+			<item value="UsingJUnit3"/>
+			<item value="UsingJUnit2"/>
+			<item value="UsingJUnit"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="UsingJUnit6"/>
+			<item value="UsingJunit5"/>
+			<item value="UsingJUnit4"/>
+			<item value="UsingJUnit3"/>
+			<item value="UsingJUnit2"/>
+			<item value="UsingJUnit"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/vaibhavagrawal/Downloads/ApacheKafka"/>
+			<item value="/Users/vaibhavagrawal/Downloads/SpringFileUpload"/>
+			<item value="/Users/vaibhavagrawal/Downloads/SpringFileUpload-1"/>
+			<item value="/Users/vaibhavagrawal/Downloads/Spring-MVC-LoginForm"/>
+			<item value="/Users/vaibhavagrawal/Downloads/Spring-Boot-REST"/>
+			<item value="/Users/vaibhavagrawal/Downloads/hello-world-spring-boot"/>
+			<item value="/Users/vaibhavagrawal/Downloads/springrest"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

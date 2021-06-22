@@ -1,0 +1,5 @@
+package com.example.ApacheKafka.service;
+
+public class KafkaSender {
+
+}

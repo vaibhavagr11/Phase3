@@ -1,0 +1,23 @@
+package com.javatpoint;
+Resource r=new ClassPathResource("applicationContext.xml");  
+BeanFactory factory=new XmlBeanFactory(r);  
+  
+Employee s=(Employee)factory.getBean("e");  
+s.show();  
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        //System.out.println( "Hello World!" );
+    	Resource r=new ClassPathResource("applicationContext.xml");  
+        BeanFactory factory=new XmlBeanFactory(r);  
+          
+        Employee s=(Employee)factory.getBean("e");  
+        s.show();  
+    }
+}
